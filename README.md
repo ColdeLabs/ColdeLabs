@@ -1,9 +1,9 @@
-# Bem-vindo à Colde Labs
+# Bem-vindo à Colde Labs 🐧❄
 ## A Única Plataforma E-Learning Gamificada de Programação que a Ensina como é usada no Mercado de Trabalho
 
 ## Visão Geral
 
-A Colde Labs é uma inovadora startup de tecnologia com a missão de transformar a maneira como as crianças aprendem programação. Nossa plataforma de ensino de programação oferece uma experiência interativa e envolvente, projetada para capacitar as crianças a dominar a linguagem digital de forma divertida e autêntica.
+A Colde Labs é uma inovadora startup de tecnologia com a missão de transformar a maneira como as crianças aprendem programação. Nossa plataforma de ensino de programação oferece uma experiência interativa e envolvente, projetada para capacitar as crianças a dominar a linguagem de forma divertida e autêntica.
 
 ## Funcionalidades Principais
 
@@ -22,7 +22,7 @@ A Colde Labs é uma inovadora startup de tecnologia com a missão de transformar
 - Nossa abordagem inovadora permite que as crianças comparem e entendam a transição entre os blocos de código e a linguagem de programação convencional.
 - Não restringimos as crianças de interagir e visualizar o código em linha, estimulando uma compreensão mais profunda da programação.
 
-## Como Começar
+## Como Começar na [Colde Labs](coldelabs.com)?
 
 Para começar a utilizar a plataforma Colde Labs, siga estas etapas simples:
 
@@ -41,12 +41,15 @@ Se você tiver alguma dúvida, feedback ou precisar de suporte técnico, estamos
 - **E-mail**: support@coldelabs.com
 - **Fórum de Discussão**: [Link para o Fórum](https://github.com/Colde-Labs/Forum)
 
-## Contribuindo
+## Contato
 
-Se você deseja contribuir para o desenvolvimento da plataforma Colde Labs, siga as instruções em nosso repositório principal: [Link para o Repositório](https://github.com/Colde-Labs/Plataforma)
+Se deseja entrar em contato, siga nossos meios disponíveis:
+<br>
+<br>
+<a href="www.linkedin.com/company/coldelabs" target="_blank"><img src="https://img.shields.io/badge/-Linkedln-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
+<a href="https://instagram.com/coldelabs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-7b9971?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <br>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Gmail-93842f?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 Agradecemos por escolher a Colde Labs para a educação em programação de seus filhos. Estamos entusiasmados por fazer parte dessa jornada de aprendizado.
 
 ---
-
-*Nota: Este README é apenas um exemplo inicial. Certifique-se de atualizá-lo conforme a evolução da plataforma Colde Labs.*
